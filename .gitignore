@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Folders (CSVs mensais)
+2025/
+2026/
+
+# Excel and CSV files (Sensitive invoice and data files)
+*.xlsx
+*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
